@@ -1,7 +1,10 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
+    /*#4B69FD Color azul inicial*/
+    --color-primary: #09889f;
+    /*#4B69FD Color crema inicial*/
+    --color-secondary: #f1d9a1;
+    /*Color inicial #C4C4C4*/
+    --color-tertiary: #3ef5ac;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;

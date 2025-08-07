@@ -59,3 +59,26 @@ function sortearAmigo() {
     // Limpiar la lista de amigos en pantalla
     lista.innerHTML = "";
 }
+
+function reiniciarJuego() {
+    // Vaciar la lista de amigos
+    listaAgregados = [];
+
+    // Limpiar la lista en pantalla
+    const lista = document.getElementById("listaAmigos");
+    if (lista) {
+        lista.innerHTML = "";
+    }
+
+    // Limpiar el resultado del sorteo
+    const resultado = document.getElementById("resultado");
+    if (resultado) {
+        resultado.innerHTML = "";
+    }
+
+    // Limpiar el campo de entrada (opcional)
+    const input = document.getElementById("amigo");
+    if (input) {
+        input.value = "";
+    }
+}
