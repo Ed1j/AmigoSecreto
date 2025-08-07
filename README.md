@@ -1,6 +1,9 @@
 <h1>Amigo Secreto 🎁</h1>
 
 <h2>Oracle ONE & Alura Challenge </h2>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b8137680-c294-45d5-a30b-db94cfb19de2" />
+
+
 Aplicación simple y divertida que permita a los usuarios organizar un sorteo de "amigo secreto".
 
 La aplicación permite a los usuarios ingresar nombres de amigos en una lista. 
