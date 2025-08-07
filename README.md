@@ -10,6 +10,10 @@ Una vez ingresados todos los participantes, el usuario podrá realizar un sorteo
 <img width="1800" height="958" alt="image" src="https://github.com/user-attachments/assets/cc145b94-70b1-47a7-b78a-293a0bc91194"> 
 
 ---
+<h2>🎁Prueba el juego🎁</h2>
+  <h3>https://ed1j.github.io/AmigoSecreto/</h3>
+
+
 ## Funcionalidades ✨
 
 - ✅ Campo de texto para ingresar nombres.
